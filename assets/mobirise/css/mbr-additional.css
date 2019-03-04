@@ -1389,6 +1389,7 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
+  background: linear-gradient(#ffffff, #0d2997);
 }
 .cid-rjL34aVhBm .carousel-control {
   background: #000;
